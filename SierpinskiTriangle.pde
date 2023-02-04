@@ -18,7 +18,7 @@
       vertex(centerX + sizee, centerY);
       endShape();
       strokeWeight(2);
-      stroke(mColor, 200, 200);
+      stroke(mColor, 255, 255);
       ellipse(centerX, centerY, siz * 1.5, siz);
   }
   
